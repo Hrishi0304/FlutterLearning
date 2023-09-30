@@ -19,7 +19,7 @@ class Home extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          'Hello Guys!',
+          'Hello',
           style: TextStyle(
               fontSize: 20.0,
               fontWeight: FontWeight.w600,
